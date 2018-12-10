@@ -1,4 +1,4 @@
-# Jersey.Sample.Contact.Src
+# Jersey.Sample.Contact.Src （IBM 标准示例项目）
 
 1. Restful Web Service
 2. Restful的基本框架
